@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glo-musyawa
 - 👀 I’m interested in Everything about AI
-- 🌱 I’m currently learning data analysis,machine learning, AI
+- 🌱 I’m currently a Data Scientist
 - 💞️ I’m looking to collaborate on various and diverse projects
 - 📫 How to reach me 👋
 - 😄 Pronouns: just_glo
